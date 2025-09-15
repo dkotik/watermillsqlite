@@ -1,3 +1,7 @@
+# Archived
+
+**This repository is archived and no longer maintained, because it was accepted as official Watermill SQLite driver, which is available at <https://github.com/ThreeDotsLabs/watermill-sqlite>.**
+
 # Watermill SQLite3 Driver Pack
 
 Golang SQLite3 driver pack for <https://watermill.io> event dispatch framework. Drivers satisfy the following interfaces:
